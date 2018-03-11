@@ -1,0 +1,22 @@
+{
+  "name": "astwp-section-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "python -m unittest discover -s blog -p *test.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apecr/astwp-section-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apecr/astwp-section-3/issues"
+  },
+  "homepage": "https://github.com/apecr/astwp-section-3#readme"
+}
